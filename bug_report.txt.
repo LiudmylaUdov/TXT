@@ -1,1 +1,23 @@
+ID: #123,
+  Name: Card - Unable to add new item to my cart,
+  Reporter: Liudmyla 
+
+  Bug owerview:
+  Summary: When my file contains one item.
+
+Environment:
+
+  Platform: Macintoch,
+  Operating System: "OS X 10.12.0,
+  Browser: "Chrome53
+
+Bug details:
+
+  Expected result: The cart should contain 2 items,
+  Actual result: The cart contains only 1 item
+
+Bug tracking:
+
+  Severity: Major,
+  Priority: High
 
