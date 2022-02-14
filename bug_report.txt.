@@ -1,23 +1,17 @@
-ID: #123,
-  Name: Card - Unable to add new item to my cart,
-  Reporter: Liudmyla 
-
-  Bug owerview:
-  Summary: When my file contains one item.
-
-Environment:
-
-  Platform: Macintoch,
-  Operating System: "OS X 10.12.0,
-  Browser: "Chrome53
-
-Bug details:
-
-  Expected result: The cart should contain 2 items,
-  Actual result: The cart contains only 1 item
-
-Bug tracking:
-
-  Severity: Major,
-  Priority: High
+ID:	1R	
+Summary:	На странице регистрации нового пользователя, название формы не соответствует требованию, при визуальном осмотре страницы.	
+Project:	Form_testing	
+Environment:	OS	"macOS 12.0.1 (21A559), Browser	Mozilla Firefox, Google Chrome, Safari (17612.4.9.1.8)
+Preconditions:	http://itcareer.pythonanywhere.com/	
+Description:1. Перейти на сайт      
+            2. Проверить название страницы	
+Actual result: ITCareerToday web form	
+Expected result: Registration form	
+Severity:	Major	
+Priority:	Medium	
+Status:	Open	
+Reporter:	Удовиченко	
+Requirement: 1F	
+Assignee:	Ксендзов В.	
+Attachment:
 
